@@ -112,34 +112,8 @@
         "banner": "https://img-b.udemycdn.com/course/480x270/3856080_6aff_7.jpg",
         "mrp": "$29"
         
-    },
-    {
-        "id":9,
-        "title": "Mastering Django 5.0 & DRF - The Complete Reference Guide",
-        "description": "Learn Django,Django ORM,Django Signals and Django Rest Framework (DRF) - Step By Step",
-        "description2": "Django follows the MVT design pattern (Model View Template). Django was designed to help developers take applications from concept to completion as quickly as possible. With Django, you can take web applications from concept to launch in a matter of hours. Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. Django includes dozens of extras you can use to handle common web development tasks. Django takes care of user authentication, content administration, site maps, RSS feeds, and many more tasks — right out of the box.",
-        "instructor": "Johnny",
-        "price": "$80",
-        "duration": "5 weeks",
-        "ratings": "4.50 (6,045 Ratings)",
-        "students":"5,443 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/2625826_b507_5.jpg",
-        "mrp": "$99"
-        
-    },
-    {
-        "id":10,
-        "title": "The Complete Reference Guide",
-        "description1": "Learn Django,Django ORM,Django Signals and Django Rest Framework (DRF) - Step By Step",
-        "description2": "Django follows the MVT design pattern (Model View Template). Django was designed to help developers take applications from concept to completion as quickly as possible. With Django, you can take web applications from concept to launch in a matter of hours. Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. Django includes dozens of extras you can use to handle common web development tasks. Django takes care of user authentication, content administration, site maps, RSS feeds, and many more tasks — right out of the box.",
-        "instructor": "Anujkumar",
-        "price": "$20",
-        "duration": "1 weeks",
-        "ratings": "3.0 (6,045 Ratings)",
-        "students":"5,443 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/3471238_8040.jpg",
-        "mrp": "$29"
-        
     }
+   
+    
 ]
 }
